@@ -1,8 +1,8 @@
 package hyoromo.android.demosqlite3.database.dao;
 
 import hyoromo.android.demosqlite3.database.DBConnection;
-import hyoromo.android.demosqlite3.database.chema.DemoSchema;
 import hyoromo.android.demosqlite3.database.dto.DemoDto;
+import hyoromo.android.demosqlite3.database.schema.DemoSchema;
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;

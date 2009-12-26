@@ -1,6 +1,6 @@
 package hyoromo.android.demosqlite3.database;
 
-import hyoromo.android.demosqlite3.database.chema.DemoSchema;
+import hyoromo.android.demosqlite3.database.schema.DemoSchema;
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
